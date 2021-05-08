@@ -6,3 +6,129 @@
     style.css: You will write your css code for your portfolio website here. You can add other css files too but it must be under "css" folder.
 
 */
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.fish1{
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  right: 150px;
+}
+.fish2{
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 100px;
+  top: 1200px;
+}
+.span{
+  color: #66BFBF;
+}
+hr{
+  border-style: none;
+  border-color: #66BFBF;
+  border-top-style: dotted;
+  width: 25%;
+  border-width: 10px;
+
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 562.5%;
+  margin-bottom: 0;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+}
+div{
+  background-color: #dbf6e9;
+  margin: 0;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  height: 600px;
+  width: 100%;
+}
+.middle-container{
+background-color: #9ddfd3;
+}
+.bottom-container{
+background-color: #66bfbf;  /**/
+height: 57px;
+padding: 20px 0 20px;
+padding-bottom: 0;
+}
+a{
+  color: #11999E;
+  margin: 10px 5px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  bottom: 350px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 170px;
+  top: 100px;
+}
+.ninja{
+  width: 150px;
+  height: 150px;
+  margin-top: 50px;
+}
+.skillphoto{
+  width: 300px;
+  height: 300px;
+}
+.skillphoto2{
+  width: 200px;
+  height: 200px;
+}
+.graffiti{
+  width: 300px;
+  height: 300px;
+}
+.island{
+  position: relative;
+  top: 19px;
+  height: 403px;
+  width: 450px;
+  margin-top: 0;
+
+}
+.profile{
+  background-color: #9ddfd3;
+}
+.skills{
+  background-color: #9ddfd3;
+}
+.contact-me{
+  background-color: #9ddfd3;
+  padding-bottom: 20px;
+}
+.skill-row{
+  background-color: #9ddfd3;
+}
