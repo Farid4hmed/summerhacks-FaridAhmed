@@ -1,4 +1,4 @@
-# summerhacks-Farid-PersonalWebsite
+# summerhacks-FaridAhmed
 
 1.TABLE OF CONTENT:-
 . Welcome page
