@@ -39,6 +39,6 @@ As I mentioned earlier, I learned a great deal about HTML and CSS and it's trick
 . This project have been made solely by me.
 
 10.LIVE DEMO LINK:-
-https://fareedahmed00.github.io/summerhacks-Farid-PersonalWebsite/
+https://fareedahmed00.github.io/summerhacks-FaridAhmed/
 
 
