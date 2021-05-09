@@ -1,11 +1,7 @@
 # summerhacks-FaridAhmed
 
 1.TABLE OF CONTENT:-
-. Welcome page
-. My Name
-. My Skills
-. Contact Details
-. Social Media links
+Welcome page, my name, my skills, contact details, social media links.
 
 2.ABOUT:-
 Hey I'm a computer science undergrad, currently a fresher. This portfolio project is a my personal website. This website is made solely out of HTML5 and CSS.
