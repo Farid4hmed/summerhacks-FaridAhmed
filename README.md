@@ -13,7 +13,7 @@ TABLE OF CONTENT:-
 10. Demo
 
 1.ABOUT:-
-This portfolio project is a my personal website. This website is made solely out of HTML5 and CSS.
+This portfolio project is my personal website. This website is made solely out of HTML5 and CSS.
 
 2.INSPIRATIONS:-
 1. www.w3schools.com
