@@ -46,7 +46,7 @@ Implementing Bootstrap and Javascript to the project.
 This project have been made solely by me.
 
 9.WEBSITE LINK:-
-https://fareedahmed00.github.io/summerhacks-FaridAhmed/
+https://Farid4hmed.github.io/summerhacks-FaridAhmed/
 
 10.DEMO:-
 <img width="1267" alt="Screenshot 2021-05-09 at 5 21 30 PM" src="https://user-images.githubusercontent.com/73395538/117571311-ab240600-b0eb-11eb-80df-f896225fcde8.png">
